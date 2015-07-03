@@ -146,7 +146,7 @@ a:hover,li:hover{
 .marquee-text {
   font-size: 18px;
   line-height: 34px;
-  height: 100%;
+  max-height: 580px;
 }
 .marquee-text ul {
   padding: 0;
